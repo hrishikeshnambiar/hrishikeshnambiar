@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there! 👋
 
 
-## I'm a Sustainable Systems Engineering Student at University of Freiburg.
+## I'm a Power Analyst at Wood Mackenzie focusing on long-term modelling.
 
 ### Connect with me:
 
